@@ -1,4 +1,4 @@
-# Customer-Satisfaction-at-the-Airport
+# Customer Satisfaction at the Airport
 
 ## Serving as the Project Manager for this analysis in R and Excel, my team and I gained insights to further understand what factors cause a customer to be satisfied, and built models to determine how customer satisfaction can be improved.
 ## Using a public dataset with 25,977 records with 24 distinct variables, we pre-processed the data by creating dummy variables for our qualitative variables. To prepare the data for analysis, we partitioned the data into a train set and test set and began to run models.
